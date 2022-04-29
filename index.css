@@ -1,0 +1,128 @@
+.main1{
+	border: 2px solid red;
+	height: 1600px;
+	background-color:#01A9DB;
+}
+
+.main{
+	border: 7px solid black;
+	height: 1417px;
+	width: 600px;
+	margin-top: 60px;
+	margin-left: 310px;
+	text-align: center;
+	background-color: #D8D8D8;
+	border-radius: 20px;
+	box-shadow:300px;
+}
+.pic2{
+	    height: 100px;
+	    width: 200px;
+	    margin-left: 390px;
+	    margin-top: 20px;
+	}
+
+.form1{
+	/* border: 1px solid black;*/
+	 height: 1080px;
+	 margin-left: 30px;
+	 margin-right: 30px;
+	 font-size: 30px;
+	 /*padding: 5px;
+	*/
+}
+
+
+label{
+	
+	float: left;
+}
+.name{
+	height: 30px;
+	width:300px;
+	float: right;
+}
+.nkl{
+	height: 38px;
+	width: 308px;
+	margin-right:-66px;
+}
+.nikhil{
+	height:16px;
+	width: 40px;
+}
+.radio{
+	height:15px;
+	width: 40px;
+	margin-left: 144px;
+
+}
+.appu{
+	height:16px;
+	width: 40px;	
+	margin-left:186px;
+}
+.aim{
+	height: 14px;
+	width: 40px;
+	margin-left:97px;
+}
+
+.footer{
+     /*border: 1px dashed green;*/
+	height: 100px;
+	background-color:#151515;
+	color: white;
+	font-size: 17px;
+}
+
+.dtl{
+	/*border: 1px solid black;*/
+	height: 100px;
+	width: 50%;
+	float: left;
+}
+.dtl2{
+	/*border: 1px dashed black;*/
+	height: 100px;
+	width: 50%;
+	margin-top: 20px;
+    margin-left: 300px;
+}
+.dtl2 img{
+	margin-top:0px;
+
+}
+
+
+@media only screen and (max-width: 400px){
+   .main1{
+	border: 2px solid red;
+	height:1700px;
+	width: 400px;
+	background-color:#01A9DB;
+}
+
+.
+
+
+    .main{
+	border: 7px solid black;
+	height:5px;
+	width: 400px;
+	margin-top: 0px;
+	margin-right: 400px;
+	text-align: center;
+	background-color: #D8D8D8;
+	border-radius: 10px;
+	box-shadow:150px;
+}
+   .main img{
+   	margin-left: 400px;
+   }
+
+
+
+}
+
+
